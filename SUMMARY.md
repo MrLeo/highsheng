@@ -1,5 +1,4 @@
 # Summary
-
 * [嗨声官网](http://www.highsheng.com)
 * [说明](README.md)
 * 嗨声APP
