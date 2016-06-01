@@ -8,7 +8,7 @@
 
 
 
-![嗨声下载二维码](img/download-qrcode.png =100)
+![嗨声下载二维码](img/download-qrcode.png)
 
 
 
