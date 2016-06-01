@@ -1,6 +1,6 @@
 # 影片中合成声波
 
-1. 下载[Adobe Premiere](http://pan.baidu.com/s/1eSfkB6q)
+1. 下载[Adobe Premiere][]
 2. **新建项目**，弹出的设置项默认即可![新建项目](..\img\pr\pr_step1.png)
 3. **导入素材**：项目面板空白处右键，点击`导入`素材![导入素材](..\img\pr\pr_step2.png)
 4. **创建序列**：项目面板空白处右键，选择`新建项目`然后选择`序列` *序列有点像视频画布、容器的概念*![新建项目下创建序列](..\img\pr\pr_step3.png) 一个项目可以创建多个序列，每个序列最后都可以单独导出视频![创建序列](..\img\pr\pr_step3_2.png)
@@ -15,3 +15,8 @@
 > - 设置好视频轨之后可以将视频轨和其所匹配的音频轨`锁定`，这样后面编辑的时候就不用担心误操作将视频改动 ![pr_step4_5](..\img\pr\pr_step4_5.png)
 > - 使用`剃刀工具`可以对视频进行切片剪辑处理 ![pr_step4_6](..\img\pr\pr_step4_6.png)
 
+
+
+
+
+[Adobe Premiere]: http://pan.baidu.com/s/1eSfkB6q	"Premiere 百度网盘下载地址"
