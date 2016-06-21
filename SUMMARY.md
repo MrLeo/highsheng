@@ -10,5 +10,6 @@
   * [首页及分类页秒杀入口维护](admin/home-seckill.md)
   * [首页及分类页游戏入口维护](admin/home-game.md)
   * [首页及分类页视频入口维护](admin/home-video.md)
+  * [互动页面顶部轮播视频维护](admin/activity-video.md)
 
 
