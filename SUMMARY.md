@@ -11,5 +11,8 @@
   * [首页及分类页游戏入口维护](admin/home-game.md)
   * [首页及分类页视频入口维护](admin/home-video.md)
   * [互动页面顶部轮播视频维护](admin/activity-video.md)
-
-
+* [翻墙](other/README.md)
+  * [为什么翻墙](other/why.md)
+  * [现在比较流行的翻墙方式](other/how.md)
+  * [Hosts](other/Hosts.md)
+  * [Shadowsocks](other/shadowsocks.md)
