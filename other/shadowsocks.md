@@ -3,11 +3,17 @@
 [`绿色便携单文件客户端`](https://github.com/shadowsocks/shadowsocks-windows/releases)
 ![](../img/gfw/2016-06-27 14-27-48.jpg)
 
+
+
 #### 免费Shadowsocks账号获取地址
+
 - [ishadowsocks](http://www.ishadowsocks.net/)
 - [freeshadowsocks](http://freeshadowsocks.cf/)
 
+
+
 #### 使用方法
+
 1. 解压到任意目录，运行其中的Shadowsocks.exe
 
     ![Shadowsocks.exe](http://www.ishadowsocks.net/img/tutorials/windows_shadowsocks_01.png)
