@@ -24,5 +24,7 @@
 [Update Hosts 下载](../updateHosts.zip)  : *使用的hosts源是`racaljk.hosts`可替换，替换方法请移步[官网](https://github.com/ladder1984/updateHosts)*
 
 - 使用的时候只需要 **双击** `start.vbs` 文件即可完成自动更新。
+
 - 如果想让 hosts 始终保持最新，可以 **双击** `addToStartup.js` 将此脚本加入到启动项，开机状态下每隔1小时会自动获取一次
+
   ![](../img/gfw/2016-06-27 14-03-26.jpg)
